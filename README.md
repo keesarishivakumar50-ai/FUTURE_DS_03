@@ -10,24 +10,24 @@ Through visualizations and data analysis, this project provides meaningful insig
 
 ## 🧩 Dataset
 
-The dataset used is student_feedback.csv, which contains student responses on a 1–10 rating scale for various feedback criteria.
+The dataset used is "student_feedback.csv", which contains student responses on a 1–10 rating scale for various feedback criteria.
 
 ---
 
 ## 🧹DATA CLEANING
 
--Removed Unnecessary columns like Unnamed: 0 and Student ID
--Renamed columns for easier processing and visualization
+- Removed Unnecessary columns like Unnamed: 0 and Student ID
+- Renamed columns for easier processing and visualization
 
 ---
 
 ## 📊 Visualizations
 The following are the visuals used in the report:
--Barplot
--heatmap
--boxplot
--histplot
--kdeplot
+- Barplot
+- heatmap
+- boxplot
+- histplot
+- kdeplot
 
 ---
 
@@ -35,11 +35,11 @@ The following are the visuals used in the report:
 
 - Python 3
 
--pandas – Data cleaning and manipulation
+- pandas – Data cleaning and manipulation
 
--matplotlib – Static visualizations
+- matplotlib – Static visualizations
 
--seaborn – Advanced statistical plotting
+- seaborn – Advanced statistical plotting
 
 ---
 
