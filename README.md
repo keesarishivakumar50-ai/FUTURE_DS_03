@@ -33,7 +33,7 @@ The following are the visuals used in the report:
 
 ## 🛠️ Tools & Libraries Used
 
--Python 3
+- Python 3
 
 -pandas – Data cleaning and manipulation
 
